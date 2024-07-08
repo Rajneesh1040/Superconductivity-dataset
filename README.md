@@ -44,3 +44,6 @@ Based on the R2 scores achieved by different regression models, we can draw the 
 - **Random Forest Regressor:** Achieved the highest **R2 score of 0.915**. Utilizing **400 estimators**, this ensemble method aggregates predictions from multiple decision trees, resulting in robust performance and capturing complex relationships in the data.
 
 In summary, while Polynomial Regression and Decision Tree Regressor provide reasonable predictive performance, the **Random Forest Regressor outperforms** both with the **highest R2 score of 0.915**, indicating it is the most effective model for the dataset considered.
+
+## License
+[MIT License](LICENSE)
